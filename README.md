@@ -4,10 +4,3 @@ https://cloud.tencent.com/document/product/647/16809
 
 
 患者端的配置文件放在 Classes/Header/configureInfo.h文件夹中
-master上的提交
-
-在dev分支上干活
-
-又开发了新功能
-
-继续在dev上干活咯
