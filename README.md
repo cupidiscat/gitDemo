@@ -4,4 +4,4 @@ https://cloud.tencent.com/document/product/647/16809
 
 
 患者端的配置文件放在 Classes/Header/configureInfo.h文件夹中
-后端工作
+开始工作咯
